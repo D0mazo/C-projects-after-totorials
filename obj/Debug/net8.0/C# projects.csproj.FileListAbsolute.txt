@@ -1,0 +1,14 @@
+C:\Users\Domin\OneDrive\Desktop\C# projects\bin\Debug\net8.0\C# projects.exe
+C:\Users\Domin\OneDrive\Desktop\C# projects\bin\Debug\net8.0\C# projects.deps.json
+C:\Users\Domin\OneDrive\Desktop\C# projects\bin\Debug\net8.0\C# projects.runtimeconfig.json
+C:\Users\Domin\OneDrive\Desktop\C# projects\bin\Debug\net8.0\C# projects.dll
+C:\Users\Domin\OneDrive\Desktop\C# projects\bin\Debug\net8.0\C# projects.pdb
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.AssemblyInfoInputs.cache
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.AssemblyInfo.cs
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.csproj.CoreCompileInputs.cache
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.dll
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\refint\C# projects.dll
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.pdb
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\C# projects.genruntimeconfig.cache
+C:\Users\Domin\OneDrive\Desktop\C# projects\obj\Debug\net8.0\ref\C# projects.dll
